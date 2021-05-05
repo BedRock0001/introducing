@@ -23,7 +23,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning SQL 
+- 🌱 I’m currently learning SQL/Ruby
 - 👯 I’m looking to collaborate on FreeCodeCamp.org 
 - 🤔 I’m looking for help with Ruby/SQL 
 - 💬 Ask me about What i know 
